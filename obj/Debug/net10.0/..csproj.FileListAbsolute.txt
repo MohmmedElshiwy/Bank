@@ -1,0 +1,14 @@
+F:\BackEnd\Root\Assin\c-sharp\EFCORE\G-NET-33-EFCore04\bin\Debug\net10.0\..exe
+F:\BackEnd\Root\Assin\c-sharp\EFCORE\G-NET-33-EFCore04\bin\Debug\net10.0\..deps.json
+F:\BackEnd\Root\Assin\c-sharp\EFCORE\G-NET-33-EFCore04\bin\Debug\net10.0\..runtimeconfig.json
+F:\BackEnd\Root\Assin\c-sharp\EFCORE\G-NET-33-EFCore04\bin\Debug\net10.0\..dll
+F:\BackEnd\Root\Assin\c-sharp\EFCORE\G-NET-33-EFCore04\bin\Debug\net10.0\..pdb
+F:\BackEnd\Root\Assin\c-sharp\EFCORE\G-NET-33-EFCore04\obj\Debug\net10.0\..GeneratedMSBuildEditorConfig.editorconfig
+F:\BackEnd\Root\Assin\c-sharp\EFCORE\G-NET-33-EFCore04\obj\Debug\net10.0\..AssemblyInfoInputs.cache
+F:\BackEnd\Root\Assin\c-sharp\EFCORE\G-NET-33-EFCore04\obj\Debug\net10.0\..AssemblyInfo.cs
+F:\BackEnd\Root\Assin\c-sharp\EFCORE\G-NET-33-EFCore04\obj\Debug\net10.0\..csproj.CoreCompileInputs.cache
+F:\BackEnd\Root\Assin\c-sharp\EFCORE\G-NET-33-EFCore04\obj\Debug\net10.0\..dll
+F:\BackEnd\Root\Assin\c-sharp\EFCORE\G-NET-33-EFCore04\obj\Debug\net10.0\refint\..dll
+F:\BackEnd\Root\Assin\c-sharp\EFCORE\G-NET-33-EFCore04\obj\Debug\net10.0\..pdb
+F:\BackEnd\Root\Assin\c-sharp\EFCORE\G-NET-33-EFCore04\obj\Debug\net10.0\..genruntimeconfig.cache
+F:\BackEnd\Root\Assin\c-sharp\EFCORE\G-NET-33-EFCore04\obj\Debug\net10.0\ref\..dll
